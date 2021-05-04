@@ -4,10 +4,10 @@
 \name{rsendinblue-package}
 \alias{rsendinblue}
 \alias{rsendinblue-package}
-\title{rsendinblue: The Title of the Project}
+\title{rsendinblue: R Client for the SENDINBLUE API}
 \description{
-A paragraph providing a full description of the project (on several 
-    lines...)
+Provides an R client for the sendinblue API 
+    <https://developers.sendinblue.com>.
 }
 \seealso{
 Useful links:
@@ -18,7 +18,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Nicolas Casajus \email{nicolas.casajus@gmail.com} (\href{https://orcid.org/0000-0002-5537-5294}{ORCID})
+\strong{Maintainer}: Nicolas Casajus \email{nicolas.casajus@fondationbiodiversite.fr} (\href{https://orcid.org/0000-0002-5537-5294}{ORCID})
 
 }
 \keyword{internal}
